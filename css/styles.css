@@ -528,7 +528,7 @@ img {
     list-style: none;
     flex-wrap: wrap;
     gap: 30px;
-
+    justify-content: center;
 
 }
 
